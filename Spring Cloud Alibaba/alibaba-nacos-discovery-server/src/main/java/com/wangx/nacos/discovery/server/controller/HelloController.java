@@ -1,4 +1,4 @@
-package com.wangx.alibaba.nacos.discovery.server.controller;
+package com.wangx.nacos.discovery.server.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

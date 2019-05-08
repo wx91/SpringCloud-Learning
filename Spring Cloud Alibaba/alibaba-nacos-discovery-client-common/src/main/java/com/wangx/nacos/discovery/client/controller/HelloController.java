@@ -1,6 +1,5 @@
-package com.wangx.alibaba.nacos.discovery.client.common.controller;
+package com.wangx.nacos.discovery.client.controller;
 
-import com.sun.org.apache.regexp.internal.RE;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;

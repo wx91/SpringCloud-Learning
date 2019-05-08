@@ -1,4 +1,4 @@
-package com.wangx.alibaba.nacos.discovery.server;
+package com.wangx.nacos.discovery.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

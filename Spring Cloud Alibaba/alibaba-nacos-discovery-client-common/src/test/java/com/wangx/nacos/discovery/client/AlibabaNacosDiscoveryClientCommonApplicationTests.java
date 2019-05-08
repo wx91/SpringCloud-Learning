@@ -1,4 +1,4 @@
-package com.wangx.alibaba.nacos.discovery.client.common;
+package com.wangx.nacos.discovery.client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
